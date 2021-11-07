@@ -5,3 +5,9 @@ body {
   h1 {
     color: black;
   }
+  
+  .fundo{
+    background-color: rgba(164, 184, 184);
+    padding: 20px;
+    margin: 200px auto;
+}
